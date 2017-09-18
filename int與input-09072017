@@ -1,0 +1,3 @@
+課程：字符串與編碼
+問題：int與input的區別，待後期深入學習確定。現有知識認爲python2升級python3後將簡化了“raw_input（返回字符串）”命令變爲“input”，而將“input（返回數字）”命令簡化爲“int”
+參考：int與input.py
